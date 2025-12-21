@@ -138,7 +138,23 @@ Overall, this project shows that **object detection models**, when properly adap
 * Adaptation and specialization of the model for specific application domains (e.g., urban monitoring, infrastructure analysis, territorial surveillance)
 
 ---
+## License
+This project code is licensed under the MIT License.
+
+### Dataset License
+However, the xView dataset used in this project is licensed under **CC BY-NC 4.0** 
+(Creative Commons Attribution-NonCommercial 4.0 International).
+
+⚠️ **Important:** While the code can be used commercially, the dataset cannot. 
+If you use this project with the xView dataset, you are bound by the CC BY-NC 4.0 license restrictions.
+
+For more information on xView dataset license, see: https://creativecommons.org/licenses/by-nc/4.0/
+
+## xView
+- **Official Dataset:** http://xviewdataset.org/
+- **Paper:** https://arxiv.org/pdf/1802.07856.pdf
+- **Citation:** Lam, D., Kuzma, R., McGee, K., Dooley, S., Laielli, M., Klaric, M., Bulatov, Y., & McCord, B. (2018). xView: Objects in Context in Overhead Imagery. arXiv preprint arXiv:1802.07856.
 
 **Status:** Completed  
-**Last Updated:** December 16, 2025
+**Last Updated:** December 21, 2025
 
